@@ -1,0 +1,48 @@
+#!/bin/bash
+#colores
+cor[0]="\033[1;37m"
+cor[1]="\033[1;31m"
+cor[2]="\033[1;31m"
+cor[3]="\033[1;33m"
+cor[4]="\033[1;36m"
+barra="echo -e \033[1;34m=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#="
+bar="${cor[1]}${cor[3]}"
+
+echo -e "${cor[4]} pwd                $bar (nombre del directorio actual)  "
+$barra
+echo -e "${cor[4]} date               $bar (fecha actual del servidor)"
+$barra
+echo -e "${cor[4]} clear              $bar (limpia la pantalla del terminal)"
+$barra
+echo -e "${cor[4]} history            $bar (comandos introducidos en el directorio)"
+$barra
+echo -e "${cor[4]} ls                 $bar (archivos y directorios del directorio actual donde está)  "
+$barra
+echo -e "${cor[4]} ls -a              $bar (lista de archivos ocultos)"
+$barra
+echo -e "${cor[4]} ls -la             $bar (lista de archivos ocultos detalladamente)"
+$barra
+echo -e "${cor[4]} cd                 $bar (permite la navegación entre directorios)"
+$barra
+echo -e "${cor[4]} cd nombre_de_pasta $bar (permite acceder a la carpeta especificada)"
+$barra
+echo -e "${cor[4]} cd ..              $bar (devuelve la carpeta anterior) "
+$barra
+echo -e "${cor[4]} cd /               $bar (navega al directorio raíz)"
+$barra
+echo -e "${cor[4]} cd -               $bar ( muestra el utimo directorio) "
+$barra
+echo -e "${cor[1]} COMANDOS BÁSICOS RELACIONADO A ARCHIVOS"
+$barra
+echo -e "${cor[4]} mv $bar (mueve un archivo de un directorio a otro, mv + _nombre_archivo + directorio_destino)"
+$barra
+echo -e "${cor[4]} mv $bar (renombrar archivos también basta con mv nombre_archivo + nuevo_nombre) "
+$barra
+echo -e "${cor[4]} cp $bar (copia un archivo (se puede probar así como el archivo mv pasando el de (en el que el archivo se encuentra y copiando al directorio actual) "
+$barra
+
+
+
+sleep 39
+source menu
+

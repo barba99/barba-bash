@@ -1,0 +1,7 @@
+#!/bin/bash
+clear; echo -e "\033[0;31mCARGANDO, ESPERE POR FAVOR";echo "";for (( j=1; j<=10;j++ )); do
+echo -e "\033[1;33mINSTALANDO RECURSO  $j  \c" ;for (( i=0; i<=30; i++ ));do echo -e "\033[0;34m.\c";sleep 00.05;done; echo -e "\c";echo -e "\t\033[0;32m[OK]\033[0m";done; 
+echo -e "\033[0;34mINSTALADO CON EXITO\033[0m"
+sleep 4
+source menu
+

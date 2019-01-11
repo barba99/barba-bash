@@ -1,0 +1,12 @@
+#!/bin/bash
+clear
+_fecha=$(printf '%(%d/%m/%Y)T')
+_hora=$(printf '%(%H:%M:%S:%p)T')
+v="\033[1;32m"
+Ver="\033[1;31m"
+fin="\033[0m"
+echo -e "\033[0;34m∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞\033[0m"
+echo -e "$v HOY ES $Ver  $_fecha $v Y SON LAS $Ver $_hora $fin"
+echo -e "\033[0;34m∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞\033[0m"
+sleep 9
+source menu
