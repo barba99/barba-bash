@@ -20,6 +20,7 @@ echo -e "$v[ $b 4 $v ]$n ° $m REGISTRO "
 echo -e "$v[ $b 5 $v ]$n ° $m VER FECHA Y HORA "
 echo -e "$v[ $b 6 $v ]$n ° $m PRESIONE UNA TECLA"
 echo -e "$v[ $b 7 $v ]$n ° $m ACCTUALIZAR"
+echo -e "$v[ $b 8 $v ]$n ° $m COLORES"
 $barra $O
 read -p "Introduce una opcion:" opcion
 case $opcion in
@@ -33,6 +34,7 @@ case $opcion in
 7) cd && rm -irf barba-bash
 git clone https://github.com/barba99/barba-bash.git
 cd barba-bash && chmod +x * && bash menu ;;
+8)source colores ;;
 *)echo -e  "$n OPCION NO VALIDA $f"
 sleep 4
 source menu

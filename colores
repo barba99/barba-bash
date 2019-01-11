@@ -1,3 +1,4 @@
+#!/bin/bash
 echo -e "\033[47m\033[1;37m Blanco \033[0m\ 1;37m \ \033[40m\033[1;37m Blanco \033[0m" 
 echo -e "\033[47m\033[37m Gris Claro \033[0m\ 37m \ \033[40m\033[37m Gris Claro \033[0m" 
 echo -e "\033[47m\033[1;30m Gris \033[0m\ 1;30m \ \033[40m\033[1;30m Gris \033[0m" 
@@ -14,3 +15,5 @@ echo -e "\033[47m\033[35m Púrpura \033[0m\ 35m \ \033[40m\033[35m Púrpura \033
 echo -e "\033[47m\033[1;35m Rosa \033[0m\ 1;35m \ \033[40m\033[1;35m Rosa \033[0m" 
 echo -e "\033[47m\033[36m Cyan \033[0m\ 36m \ \033[40m\033[36m Cyan \033[0m" 
 echo -e "\033[47m\033[1;36m Cyan Claro \033[0m\ 1;36m \ \033[40m\033[1;36m Cyan Claro \033[0m"
+sleep 30
+source menu
