@@ -9,6 +9,11 @@ O="\033[1;36m"
 f="\033[0m"
 barra="echo -e \033[0;34m∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞=∞\033[0m"
 clear
+echo -e "\033[1;36m"
+read -p "cual es su nombre: " nombre
+clear
+echo -e "\033[1;32m"
+figlet -c -f banner $nombre
 $barra
 echo -e "$v EJERCICIOS DE COMANDOS EN BASH"
 $barra
