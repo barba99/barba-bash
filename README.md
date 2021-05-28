@@ -17,3 +17,5 @@ Este script  es un ejerció de comandos en bash
 [fortune.sh](fortune.sh) ° Crea una galleta de la fortuna y la traduce a español
 
 [figlet.sh](figlet.sh) ° Figlet y sus diferentes estilos por defecto
+
+[verifica-tecla.sh](verifica-tecla.sh) ° Te dice el tipo de tecla que se toco
