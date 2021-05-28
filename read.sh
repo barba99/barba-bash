@@ -6,6 +6,6 @@ clear
 echo -e "\033[1;33m BIENVENIDO $nombre "
 echo -e "\033[1;32m"
 figlet -c -f banner $nombre
-sleep 6
-source menu
+sleep 
+
 
