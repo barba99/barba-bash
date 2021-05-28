@@ -36,12 +36,8 @@ SCRIPT DE VARIOS EJEMPLOS EN BASH
 
 <details>
   <summary><b>CONTACT ME</b></summary><br>
-
-  - <a href="https://https://www.facebook.com/jorgeolegario.barbamacias.1"/><img alt="Rizky Facebook" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b>Agregar</b></a><br>
-  - <a href="https://www.facebook.com/jorgeolegario.barbamacias.1"/><img alt="Rizky Facebook" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b>Agregar</b></a><br>
-  - <a href="https://t.me/Jorgebarba"/><img alt="JORGE BARBA" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /><b>Telegram</b></a><br>
-  </p>
-  - <a href="https://youtube.com/c/JorgeBarba99"/><img alt="JORGE BARBA" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><b>Youtube</b></a><br>
+  - <a href="https://www.facebook.com/jorgeolegario.barbamacias.1"/><>
+  - <a href="https://t.me/Jorgebarba"/><img alt="JORGE BARBA" align=">
+  - <a href="https://youtube.com/c/JorgeBarba99"/><img alt="JORGE BAR>
   </p>
 </details>
-
