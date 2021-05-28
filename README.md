@@ -10,3 +10,6 @@ Este script  es un ejerció de comandos en bash
 [calculadora.sh](calculadora.sh) ° Calculadora
 
 [version_compare.sh](version_compare.sh) ° Compara si existe una nueva versión
+
+
+[fecha.sh](fecha.sh) ° Imprime la hora y la fecha
