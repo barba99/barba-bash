@@ -29,3 +29,6 @@ SCRIPT DE VARIOS EJEMPLOS EN BASH
 
 
 [colores.sh](colores.sh) ° Colores en bash
+
+
+[spinner_v2.sh](spinner_v2.sh) ° Muestra proceso de instalación 
