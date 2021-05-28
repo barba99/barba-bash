@@ -13,3 +13,5 @@ Este script  es un ejerció de comandos en bash
 
 
 [fecha.sh](fecha.sh) ° Imprime la hora y la fecha
+
+[fortune.sh](fortune.sh) ° Crea una galleta de la fortuna y la traduce a español
